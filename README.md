@@ -1,6 +1,6 @@
 # WeatherForecast
 
-Sistema para mostrar clima e tempo de qualquer cidade e estado do mundo.
+Sistema para mostrar clima e tempo de qualquer cidade e estado do mundo. <br>
 Utilizando a API do Open Weather Map.
 <br>
 # Link para acessar o projeto: https://borgesguilherme.com/projetos/climatempo/
